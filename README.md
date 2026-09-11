@@ -1,4 +1,4 @@
-# My Nvim Config
+# Sphere's Nvim Config
 
 A bloated config with minimal flashiness.
 
